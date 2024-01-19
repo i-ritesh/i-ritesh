@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @mrhacknet<br>👀 I’m interested in Programming and Cyber Security<br>🌱 I’m currently learning Backend<br>💞️ I’m looking to collaborate on Ethical Hacking and Coding Related Stuff
+👋 Hi, I’m Ritesh Gandalwad<br>👀 I’m interested in Programming and Cyber Security<br>🌱 I’m currently learning Backend<br>💞️ I’m looking to collaborate on Ethical Hacking and Coding Related Stuff
 
 
 ## 🌐 Socials:
