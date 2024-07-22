@@ -1,11 +1,14 @@
 # 💫 About Me:
-👋 Hi, I’m Ritesh Gandalwad<br>👀 I’m interested in Programming and Cyber Security<br>🌱 I’m currently learning Backend<br>
+👋 Hi, I’m Ritesh Gandalwad<br>👀 I’m interested in Programming and Cyber Security<br>🌱 I’m currently learning Backend<br> 
+
+gandalwadritesh90@gmail.com
 
 Results-driven Front-End Developer with expertise in HTML,
 CSS, JavaScript and ReactJs. Skilled in implementing
 responsive and user- friendly web interfaces through
 collaboration with UX/UI designers. Proficient in Git version
 control.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_ritesh.r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-gandalwad) 
