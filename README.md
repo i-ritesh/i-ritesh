@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ritesh Gandalwad<br>👀 I’m interested in Programming and Cyber Security<br>🌱 I’m currently learning Backend<br> 
+👋 Hi, I’m Ritesh Gandalwad<br>
 
 gandalwadritesh90@gmail.com
 
